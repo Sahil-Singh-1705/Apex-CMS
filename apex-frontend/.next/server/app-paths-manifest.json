@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/apx-admin/login/page": "app/apx-admin/login/page.js",
+  "/[...pageOne]/page": "app/[...pageOne]/page.js",
+  "/admin/app-pages/all/page": "app/admin/app-pages/all/page.js",
+  "/admin/app-pages/edit/[id]/page": "app/admin/app-pages/edit/[id]/page.js",
+  "/admin/default/mainheader/page": "app/admin/default/mainheader/page.js"
+}
